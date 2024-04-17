@@ -3,6 +3,7 @@
 ### Python compiler for Edge.Js.
 
 ### This libarary is based on https://github.com/tjanczuk/edge-py all credit for original work goes to Tomasz Janczuk. 
+-------
 
 **NOTE** This functionality requires [IronPython 3.4](https://github.com/IronLanguages/ironpython3/releases) and has been tested on Windows only. 
 
