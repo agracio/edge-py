@@ -4,9 +4,9 @@
     <Description>Edge.js enables scripting CLR languages from Node.js. This package is a dependency of Edge.js and supports scripting Python from Node.</Description>
     <AssemblyTitle>Python compiler for Edge.js</AssemblyTitle>
     <VersionPrefix>1.0.0</VersionPrefix>
-    <TargetFramework>net462</TargetFramework>
-    <AssemblyName>edge-py</AssemblyName>
-    <PackageId>edge-py</PackageId>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>edge-py-coreclr</AssemblyName>
+    <PackageId>edge-py-coreclr</PackageId>
     <PackageProjectUrl>https://github.com/agracio/edge-py</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/agracio/edge-py/blob/master/LICENSE</PackageLicenseUrl>
     <LangVersion>default</LangVersion>

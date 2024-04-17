@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "edge-py-coreclr/1.0.0": {
+        "dependencies": {
+          "IronPython": "3.4.1.0",
+          "Microsoft.Dynamic": "1.3.4.0",
+          "Microsoft.Scripting": "1.3.4.0"
+        },
+        "runtime": {
+          "edge-py-coreclr.dll": {}
+        }
+      },
+      "IronPython/3.4.1.0": {
+        "runtime": {
+          "IronPython.dll": {
+            "assemblyVersion": "3.4.1.0",
+            "fileVersion": "3.4.1.1000"
+          }
+        }
+      },
+      "Microsoft.Dynamic/1.3.4.0": {
+        "runtime": {
+          "Microsoft.Dynamic.dll": {
+            "assemblyVersion": "1.3.4.0",
+            "fileVersion": "1.3.4.1000"
+          }
+        }
+      },
+      "Microsoft.Scripting/1.3.4.0": {
+        "runtime": {
+          "Microsoft.Scripting.dll": {
+            "assemblyVersion": "1.3.4.0",
+            "fileVersion": "1.3.4.1000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "edge-py-coreclr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronPython/3.4.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Dynamic/1.3.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Scripting/1.3.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

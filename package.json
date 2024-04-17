@@ -5,20 +5,20 @@
     "url": "http://tomasz.janczuk.org",
     "twitter": "tjanczuk"
   },
-  "version": "0.2.0-pre",
+  "version": "1.0.0",
   "description": "Edge-py: run Python and node.js code in-process with edge.js",
-  "tags" : ["edge", "edgejs", "net", "clr", "python", "managed", ".net", "ironpython", "node.js", "node"],
+  "tags" : ["edge", "edgejs","edge-js", "net", "clr", "python", "managed", ".net", "ironpython", "node.js", "node"],
   "main": "./lib/edge-py.js",
   "engines": { "node": ">= 0.6" },
-  "licenses": [ { "type": "Apache", "url": "http://www.apache.org/licenses/LICENSE-2.0" } ],
+  "license": "MIT",
   "dependencies": {
   },
-  "homepage": "http://tjanczuk.github.com/edge",
+  "homepage": "https://github.com/agracio/edge-py",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tjanczuk/edge-py.git"
+    "url": "git@github.com:agracio/edge-py.git"
   },
   "bugs" : {
-    "url" : "http://github.com/tjanczuk/edge-py/issues"
+    "url" : "http://github.com/agracio/edge-py/issues"
   }
 }
