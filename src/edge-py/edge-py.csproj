@@ -24,4 +24,9 @@
       <HintPath>$(PROGRAMFILES)\IronPython 3.4\IronPython.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\compiler\EdgeCompiler.cs">
+      <Link>EdgeCompiler.cs</Link>
+    </Compile>
+  </ItemGroup>
 </Project>
