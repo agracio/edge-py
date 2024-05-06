@@ -109,4 +109,4 @@ console.log(hello('Node.js', true));
 
 The `sync: true` property in the call to `edge.func` tells Edge.js to execute Python code on the V8 thread as opposed to creating a new thread to run Python script on. The `true` parameter in the call to `hello` requests that Edge.js does in fact call the `hello` function synchronously, i.e. return the result as opposed to calling a callback function. 
 
-See [Edge.Js on GitHub](https://github.com/agracio/egde-js) for more information. 
+See [Edge.Js on GitHub](https://github.com/agracio/edge-js) for more information. 
